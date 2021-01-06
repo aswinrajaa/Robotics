@@ -1,0 +1,49 @@
+body{
+    animation-duration: 1s;
+    transition-duration: 1s;
+}
+
+nav{
+    display: none;
+}
+
+ul > li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.Single_Page_Cover{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.content{
+    padding-top: 30vh;
+    width: 80%;
+    margin: auto;
+}
+
+.robotics_container{
+}
+
+.robotics_content{
+    display: inline-block;
+}
+
+.robotics_image{
+    display: inline-block;
+}
+
+.Language_Names{
+
+}
+
+.Language_Names > ul{
+    padding: 0;
+}
+
+.Language_Names > ul > li {
+    display: inline-block;
+    width: 20%;
+}
